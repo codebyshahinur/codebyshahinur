@@ -1,6 +1,6 @@
 # Hi, I'm Shahinur Alam 👋
 
-### Computer Science & Engineering Student · Software Developer · Builder · Founder
+### Computer Science & Engineering Student · Software Developer 
 
 <p align="left">
   <a href="https://github.com/codebyshahinur">
