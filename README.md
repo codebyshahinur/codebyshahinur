@@ -64,9 +64,9 @@ My current academic focus includes:
 
 ---
 
-# 🚀 What I'm Building
+#  What I'm Building
 
-## 🔐 Barta — Privacy-First Communication
+##  Barta — Privacy-First Communication
 
 **Barta** is my current primary product and startup project, being developed
 under **Barta Technologies Pvt. Ltd.**
@@ -284,19 +284,6 @@ https://chatbybarta.com
   <img src="https://github-readme-stats.vercel.app/api?username=codebyshahinur&show_icons=true&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyshahinur&layout=compact&hide_border=true" height="170"/>
 </p>
-
----
-
-## 🚀 Long-Term Vision
-
-My long-term goal is to become a strong software engineer and technology
-builder while creating products that solve meaningful problems.
-
-I'm especially interested in building technology that gives people more
-control over their data, communication, and digital identity.
-
----
-
 <p align="center">
 
 ### "Build things worth understanding."
