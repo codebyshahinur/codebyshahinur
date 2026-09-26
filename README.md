@@ -1,4 +1,4 @@
-# Hi, I'm Shahinur Alam 👋
+# Hi, I'm Shahinur Alam 
 
 ### Computer Science & Engineering Student · Software Developer 
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Shahinur Alam**, a Computer Science & Engineering student at
 **Assam Science and Technology University (ASTU), Assam, India**.
@@ -39,13 +39,13 @@ understand how things work, and continuously improve**.
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### Assam Science and Technology University — ASTU
 
 **B.Tech / Computer Science & Engineering**
 
-📍 Assam, India
+ Assam, India
 
 Currently pursuing my undergraduate studies in Computer Science &
 Engineering.
@@ -85,7 +85,7 @@ around secure communication, user privacy, and modern security principles.
 - Privacy-oriented product design
 - Research into post-quantum cryptography
 
-🌐 **Website:** https://chatbybarta.com
+ **Website:** https://chatbybarta.com
 
 > Barta is an ongoing project. Security and cryptographic claims will be
 > documented based on the technologies that are actually implemented and
@@ -93,7 +93,7 @@ around secure communication, user privacy, and modern security principles.
 
 ---
 
-# 📱 Previous Projects
+#  Previous Projects
 
 ## Julieet — Random Video Communication Platform
 
@@ -123,7 +123,7 @@ The project gave me practical experience with:
 
 ---
 
-## 🌐 Web Development Projects
+##  Web Development Projects
 
 I've also worked on websites and web-based products involving:
 
@@ -141,36 +141,35 @@ and practical web engineering.
 
 ---
 
-# 🧪 Research & Technical Interests
+#  Research & Technical Interests
 
 I'm particularly interested in understanding technologies that will shape
 the next generation of software infrastructure.
 
 ### Areas I'm exploring
-
-🔐 **Privacy & Security**
+ **Privacy & Security**
 
 Understanding secure communication, authentication, data protection,
 and privacy-oriented system architecture.
 
-⚛️ **Post-Quantum Cryptography**
+ **Post-Quantum Cryptography**
 
 Studying modern cryptographic approaches designed to address the future
 threat posed by quantum computing.
 
-🤖 **Artificial Intelligence**
+ **Artificial Intelligence**
 
 Exploring machine learning, LLMs, AI-assisted software development,
 and human-AI interaction.
 
-🌐 **Distributed Systems**
+ **Distributed Systems**
 
 Learning how reliable systems communicate, scale, and operate across
 multiple machines and services.
 
 ---
 
-# 💻 Technology Stack
+#  Technology Stack
 
 ### Languages
 
@@ -199,7 +198,7 @@ multiple machines and services.
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 I'm currently focused on strengthening my computer science fundamentals
 while building real-world software.
@@ -220,7 +219,7 @@ while building real-world software.
 
 ---
 
-# 🏗️ My Development Philosophy
+#  My Development Philosophy
 
 I try to follow a simple approach:
 
@@ -231,7 +230,7 @@ to real projects and understand the engineering decisions behind them.
 
 ---
 
-# 📌 What You'll Find on My GitHub
+#  What You'll Find on My GitHub
 
 My repositories contain a combination of:
 
@@ -250,7 +249,7 @@ and improve them.
 
 ---
 
-# 🤝 Collaboration
+#  Collaboration
 
 I'm interested in collaborating on projects involving:
 
@@ -268,7 +267,7 @@ If you're building something interesting, feel free to connect.
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 **GitHub:**  
 https://github.com/codebyshahinur
@@ -278,7 +277,7 @@ https://chatbybarta.com
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codebyshahinur&show_icons=true&hide_border=true&count_private=true" height="170"/>
