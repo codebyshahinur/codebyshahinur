@@ -78,7 +78,7 @@ around secure communication, user privacy, and modern security principles.
 
 - Secure messaging
 - Privacy-focused architecture
-- Encryption
+-  PQC Encryption
 - User-controlled communication
 - Cross-platform application development
 - Modern authentication systems
